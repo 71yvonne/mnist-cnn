@@ -1,4 +1,4 @@
-# MNIST
+# Handwritten Digit Recognition (MNIST) Using Convolutional Neural Networks
 Handwritten digit recognition based on convolutional neural network using MNIST dataset
 
 ## Loss
